@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" fill="none">
+  <rect width="1200" height="1200" fill="#f0fdf4" rx="40"/>
+  <!-- Leaf background -->
+  <g opacity="0.15" transform="translate(300, 200) scale(25)">
+    <path d="M12 22V12" stroke="#15803d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 12c-2-2.67-4-4-6-4a4 4 0 0 0-4 4c0 3.33 2.67 5.33 6 8a13.33 13.33 0 0 0 4-8Z" fill="#22c55e" stroke="#15803d" stroke-width="2"/>
+    <path d="M12 12c2-2.67 4-4 6-4a4 4 0 0 1 4 4c0 3.33-2.67 5.33-6 8a13.33 13.33 0 0 1-4-8Z" fill="#4ade80" stroke="#15803d" stroke-width="2"/>
+  </g>
+  <!-- Camera icon in center -->
+  <g transform="translate(475, 450) scale(10)" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/>
+    <circle cx="12" cy="13" r="3"/>
+  </g>
+  <text x="600" y="780" font-family="system-ui, sans-serif" font-size="42" font-weight="600" fill="#16a34a" text-anchor="middle">Soil Photo Upload</text>
+  <text x="600" y="840" font-family="system-ui, sans-serif" font-size="28" fill="#15803d" text-anchor="middle">Click or drag a clear image of your soil</text>
+</svg>
